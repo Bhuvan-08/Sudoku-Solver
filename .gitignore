@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+extracted_digits/
+images/
+merged_dataset/
+debug_cells/
+processed_digits/
+synthetic_digits/
+
 # Distribution / packaging
 .Python
 build/
