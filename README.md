@@ -39,8 +39,8 @@ The application follows a modular pipeline to process and solve the Sudoku puzzl
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your GitHub Repository URL]
-    cd [Your Project Folder Name]
+    git clone [https://github.com/Bhuvan-08/Sudoku-Solver](https://github.com/Bhuvan-08/Sudoku-Solver)
+    cd Sudoku-Solver
     ```
 
 2.  **Set up the environment:**
